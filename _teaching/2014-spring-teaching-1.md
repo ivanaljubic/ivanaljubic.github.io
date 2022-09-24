@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Research Supervision"
 collection: teaching
-type: "Undergraduate course"
+type: "Research - Post Doc"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+# Current Supervision
 
-Heading 2
-======
+Post-Docs:
 
-Heading 3
-======
+- Marcos Melo Silva, ESSEC Business School, since 2017
+
+PhD Students:
+
+- Ahlam Mouaci, University Paris Dauphine
+- Georg Brandstätter, University of Vienna (co-supervised with [Markus Leitner](http://homepage.univie.ac.at/markus.leitner/))
+
+# Former Supervision
