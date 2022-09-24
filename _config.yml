@@ -82,7 +82,7 @@ author:
   avatar: "profile-pic.jpg"
   bio: "Your biography for the left-hand sidebar"
   location: "Cergy, France"
-  employer: "https://www.essec.edu/en/"
+  employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=o1Ym0_AAAAAJ&hl=en"
   email: "ljubic@essec.edu"
