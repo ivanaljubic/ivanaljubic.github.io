@@ -18,7 +18,7 @@ collection: portfolio
 		<li> The maximum-weight connected subgraph problem (MWCS), and</li>
 		<li> The degree-constrained Steiner tree problem (DCST)</li>
 	</ul>
-	According to the <a href="http://dimacs11.zib.de/contest/results/results.html"> results of the 11th DIMACS Challenge</a>, our exact solver (aka <font color=red><b>MOZARTBALLS</b></font>) and heuristic solver (aka <font color=red><b>STAYNERD</b></font>) are the winners in most of the categories for the selected group of problems. Both, exact and heuristic algorithms are available in the provided package (corresponding to the version published in the Mathematical Programming Computation, 2017), and can be turned on/off by appropriate parameter settings (see <a href="{{site.url}}/docs/stay-nerd/staynerd_user_manual.pdf">user-manual</a> for more details). 
+	According to the <a href="http://dimacs11.zib.de/contest/results/results.html"> results of the 11th DIMACS Challenge</a>, our exact solver (aka <b style="color:red">MOZARTBALLS</b>) and heuristic solver (aka <b style="color:red">STAYNERD</b>) are the winners in most of the categories for the selected group of problems. Both, exact and heuristic algorithms are available in the provided package (corresponding to the version published in the Mathematical Programming Computation, 2017), and can be turned on/off by appropriate parameter settings (see <a href="{{site.url}}/docs/stay-nerd/staynerd_user_manual.pdf">user-manual</a> for more details). 
 </td>
 
 ## REFERENCE
