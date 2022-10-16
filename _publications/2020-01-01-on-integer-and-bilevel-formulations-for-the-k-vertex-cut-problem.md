@@ -8,4 +8,5 @@ venue: 'Math. Program. Comput. 12(2): 133-164'
 paperurl: 'https://rdcu.be/bMFkX'
 ---
 [View paper here](https://rdcu.be/bMFkX)
+
 [Download paper here]({{site.url}}/docs/publications/kVertexCut_rev.pdf)

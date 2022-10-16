@@ -8,4 +8,5 @@ venue: 'Transp. Sci. 54(5): 1408-1438'
 paperurl: 'https://pubsonline.informs.org/doi/10.1287/trsc.2019.0931'
 ---
 [View paper here](https://pubsonline.informs.org/doi/10.1287/trsc.2019.0931)
+
 [Download paper here](http://www.optimization-online.org/DB_FILE/2017/03/5933.pdf)

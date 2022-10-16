@@ -8,4 +8,5 @@ venue: 'Manuf. Serv. Oper. Manag. 24(3): 1562-1577'
 paperurl: 'https://pubsonline.informs.org/doi/10.1287/msom.2021.1016'
 ---
 [View paper here](https://pubsonline.informs.org/doi/10.1287/msom.2021.1016)
+
 [Download paper here]({{site.url}}/docs/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3464619)

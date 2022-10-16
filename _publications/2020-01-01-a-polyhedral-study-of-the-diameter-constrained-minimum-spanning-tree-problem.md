@@ -8,4 +8,5 @@ venue: ' Discret. Appl. Math. 285: 364-379'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0166218X20302614'
 ---
 [View paper here](https://www.sciencedirect.com/science/article/abs/pii/S0166218X20302614)
+
 [Download paper here]({{site.url}}/docs/publications/dmstp-tr.pdf)

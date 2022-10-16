@@ -8,4 +8,5 @@ venue: 'Comput. Optim. Appl. 69(3): 713-752'
 paperurl: 'https://link.springer.com/article/10.1007/s10589-017-9966-x'
 ---
 [View paper here](https://link.springer.com/article/10.1007/s10589-017-9966-x)
+
 [Download paper here]({{site.url}}/docs/publications/sstp.pdf)

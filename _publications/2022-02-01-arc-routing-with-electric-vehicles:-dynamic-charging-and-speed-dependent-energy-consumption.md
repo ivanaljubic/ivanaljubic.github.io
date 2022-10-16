@@ -8,4 +8,5 @@ venue: 'Transportation Science'
 paperurl: 'https://pubsonline.informs.org/doi/10.1287/trsc.2022.1126'
 ---
 [View paper here](https://pubsonline.informs.org/doi/10.1287/trsc.2022.1126)
+
 [Download paper here](http://www.optimization-online.org/DB_HTML/2019/06/7262.html)

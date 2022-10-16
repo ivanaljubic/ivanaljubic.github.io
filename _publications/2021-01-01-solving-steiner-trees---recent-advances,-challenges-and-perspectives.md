@@ -8,4 +8,5 @@ venue: 'Networks 77(2):177-204'
 paperurl: 'https://doi.org/10.1002/net.22005'
 ---
 [View paper here](https://doi.org/10.1002/net.22005)
+
 [Download paper here]({{site.url}}/docs/publications/NetworksSI.pdf)

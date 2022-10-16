@@ -8,4 +8,5 @@ venue: 'Discret. Appl. Math. 234: 151-167'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0166218X16303754'
 ---
 [View paper here](http://www.sciencedirect.com/science/article/pii/S0166218X16303754)
+
 [Download paper here]({{site.url}}/docs/publications/CFLP-theory.pdf)

@@ -8,4 +8,5 @@ venue: 'Eur. J. Oper. Res. 262(2): 438-448'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0377221717302928'
 ---
 [View paper here](http://www.sciencedirect.com/science/article/pii/S0377221717302928)
+
 [Download paper here]({{site.url}}/docs/http://homepage.univie.ac.at/markus.sinnl/wp-content/uploads/2016/09/MCMKP-techreport.pdf)

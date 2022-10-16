@@ -8,4 +8,5 @@ venue: 'Eur. J. Oper. Res. 266(1): 46-56'
 paperurl: 'https://doi.org/10.1016/j.ejor.2017.09.023'
 ---
 [View paper here](https://doi.org/10.1016/j.ejor.2017.09.023)
+
 [Download paper here]({{site.url}}/docs/publications/MaxCapture.pdf)

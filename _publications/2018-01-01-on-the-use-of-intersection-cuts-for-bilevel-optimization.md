@@ -8,4 +8,5 @@ venue: 'Math. Program. 172(1-2): 77-103'
 paperurl: 'http://rdcu.be/vUAs'
 ---
 [View paper here](http://rdcu.be/vUAs)
+
 [Download paper here](http://www.dei.unipd.it/~fisch/papers/intersection_cuts_for_bilevel_optimization.pdf)
