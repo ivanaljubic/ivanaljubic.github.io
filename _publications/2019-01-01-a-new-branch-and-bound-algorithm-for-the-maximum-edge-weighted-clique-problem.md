@@ -1,7 +1,8 @@
 ---
 title: "A new branch-and-bound algorithm for the maximum edge-weighted clique problem"
 collection: publications
-author: 'P. San Segundo, S Coniglio, F. Furini, I. Ljubic'
+type: journal
+author: 'P. San Segundo, S Coniglio, F. Furini, I. Ljubić'
 permalink: /publication/2019-01-01-a-new-branch-and-bound-algorithm-for-the-maximum-edge-weighted-clique-problem
 date: 2019-01-01
 venue: 'Eur. J. Oper. Res. 278(1): 76-90'

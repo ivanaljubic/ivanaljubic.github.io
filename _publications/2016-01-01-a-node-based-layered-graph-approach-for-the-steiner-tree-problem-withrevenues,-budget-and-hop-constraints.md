@@ -1,7 +1,8 @@
 ---
 title: "A Node-Based Layered Graph Approach for the Steiner Tree Problem withRevenues, Budget and Hop-Constraints"
 collection: publications
-author: 'M. Sinnl, I. Ljubic'
+type: journal
+author: 'M. Sinnl, I. Ljubić'
 permalink: /publication/2016-01-01-a-node-based-layered-graph-approach-for-the-steiner-tree-problem-withrevenues,-budget-and-hop-constraints
 date: 2016-01-01
 venue: 'Math. Program. Comput. 8(4): 461-490'

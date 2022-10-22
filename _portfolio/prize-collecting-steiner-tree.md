@@ -1,5 +1,5 @@
 ---
-title: "Prize-Collecting Steiner Tree"
+title: "Prize-Collecting Steiner Tree Problem: A branch-and-cut algorithm (DHEA)"
 excerpt: "Short descirption about the project"
 collection: portfolio
 ---
@@ -36,8 +36,8 @@ Let <em>G = (V,E, c, p) </em> be an undirected graph, with the vertices <em>V</e
     <ul>
         <li> <b> dhea-code</b> is a branch-and-cut algorithm for solving the undirected prize-collecting Steiner tree problem. Main features of the algorithm are described in:</li>
             <ul>
-                <li> I. Ljubic, R. Weiskircher, U. Pferschy, G. Klau, P. Mutzel, and M. Fischetti:<br><a href="http://www.ads.tuwien.ac.at/publications/bib/pdf/MPB_PCSTP.pdf">An algorithmic framework for the exact solution of the prize-collecting Steiner tree problem.</a> <br> Mathematical Programming, Series B, 105(2-3):427-449, 2006. </li>
-                <li> Ivana Ljubic.<br><em> <a href="http://www.ads.tuwien.ac.at/publications/bib/pdf/ljubicPhD.pdf"> Exact and Memetic Algorithms for Two Network Design Problems.</a></em><br>PhD thesis, Faculty of Computer Science, Vienna University of Technology, November 2004.</li>
+                <li> I. Ljubić, R. Weiskircher, U. Pferschy, G. Klau, P. Mutzel, and M. Fischetti:<br><a href="http://www.ads.tuwien.ac.at/publications/bib/pdf/MPB_PCSTP.pdf">An algorithmic framework for the exact solution of the prize-collecting Steiner tree problem.</a> <br> Mathematical Programming, Series B, 105(2-3):427-449, 2006. </li>
+                <li> Ivana Ljubić.<br><em> <a href="http://www.ads.tuwien.ac.at/publications/bib/pdf/ljubicPhD.pdf"> Exact and Memetic Algorithms for Two Network Design Problems.</a></em><br>PhD thesis, Faculty of Computer Science, Vienna University of Technology, November 2004.</li>
             </ul>
         <!--                If you find dhea-code useful for your own research, please cite these publications. -->
         <li> Executable-File for 64-bit machines can be downloaded <font color=red> <b> <a href="{{site.url}}/docs/pcstp/64bit/dhea">HERE</a></b></font></li>
@@ -77,7 +77,7 @@ Let <em>G = (V,E, c, p) </em> be an undirected graph, with the vertices <em>V</e
         </ul>
         <li> Group E: <a href="{{site.url}}/docs/pcstp/instances/E.tgz"> Download</a> (5.8MB)</li>
         <li> Real-world instances: <a href="{{site.url}}/docs/pcstp/instances/Cologne1.zip"> Cologne1</a> (8.9MB) and <a href="{{site.url}}/docs/pcstp/instances/Cologne2.zip"> Cologne2</a> (48.4MB)</li>
-        <li> <b> After preprocessing described in Ljubic et al. (2006): </b> <a href="{{site.url}}/docs/pcstp/instances/ReducedCDEKP.zip"> Download groups C, D, E, K, P</a> (4.5MB). Due to vertex-elimination and fixing, optimal solution values for reduced instances are different from the original ones.</li>
+        <li> <b> After preprocessing described in Ljubić et al. (2006): </b> <a href="{{site.url}}/docs/pcstp/instances/ReducedCDEKP.zip"> Download groups C, D, E, K, P</a> (4.5MB). Due to vertex-elimination and fixing, optimal solution values for reduced instances are different from the original ones.</li>
     </ul>
 </td>
 
@@ -87,10 +87,10 @@ Let <em>G = (V,E, c, p) </em> be an undirected graph, with the vertices <em>V</e
     <ol>
         <li> A.S. da Cunha, A. Lucena, N. Maculan, and M.G.C. Resende:A relax-and-cut algorithm for the prize-collecting Steiner problem in graphs. Discrete Applied Mathematics. article in press. (2008), doi:10.1016/j.dam.2008.02.014</li>
         <li> E. Uchoa: Reduction tests for the prize-collecting Steiner problem. Oper. Res. Lett. 34(4): 437-444. 2006.</li>
-        <li> I. Ljubic, R. Weiskircher, U. Pferschy, G. Klau, P. Mutzel, and M. Fischetti: <a href="http://www.ads.tuwien.ac.at/publications/bib/pdf/MPB_PCSTP.pdf">An algorithmic framework for the exact solution of the prize-collecting Steiner tree problem.</a> Mathematical Programming, Series B, 105(2-3):427-449, 2006.</li>
+        <li> I. Ljubić, R. Weiskircher, U. Pferschy, G. Klau, P. Mutzel, and M. Fischetti: <a href="http://www.ads.tuwien.ac.at/publications/bib/pdf/MPB_PCSTP.pdf">An algorithmic framework for the exact solution of the prize-collecting Steiner tree problem.</a> Mathematical Programming, Series B, 105(2-3):427-449, 2006.</li>
         <li> O. Chapovska, A. P. Punnen: Variations of the prize-collecting Steiner tree problem. Networks 47(4): 199-205. 2006</li>
         <li> A. Moser: <a href="http://www.ads.tuwien.ac.at/publications/bib/pdf/moser_05.pdf">Finding Provably Optimal Solutions for the (Prize Collecting) Steiner Tree Problem</a>. Master Thesis. Vienna University of Technology, 2005.</li>
-        <li> G.W. Klau, I. Ljubic, A. Moser, P. Mutzel, P. Neuner, U. Pferschy, and R. Weiskircher. Combining a memetic algorithm with integer programming to solve the prize-collecting Steiner tree problem. In K. Deb, editor, Proceedings of the Genetic and Evolutionary Computation Conference (GECCO-2004), volume 3102 of LNCS, pages 1304-1315. Springer-Verlag, 2004.</li>
+        <li> G.W. Klau, I. Ljubić, A. Moser, P. Mutzel, P. Neuner, U. Pferschy, and R. Weiskircher. Combining a memetic algorithm with integer programming to solve the prize-collecting Steiner tree problem. In K. Deb, editor, Proceedings of the Genetic and Evolutionary Computation Conference (GECCO-2004), volume 3102 of LNCS, pages 1304-1315. Springer-Verlag, 2004.</li>
         <li> A. Lucena, M. G. C. Resende: Strong lower bounds for the prize collecting Steiner problem in graphs. Discrete Applied Mathematics 141(1-3): 277-294. 2004.</li>
         <li> S. A. Canuto, M. G. C. Resende, and C. C. Ribeiro. Local search with perturbations for the prize-collecting Steiner tree problem in graphs. Networks, 38:50-58, 2001.</li>
         <li> D. S. Johnson, M. Minkoff, and S. Phillips. The prize-collecting Steiner tree problem: Theory and practice. In Proceedings of 11th ACM-SIAM Symposium on Discrete Algorithms, pages 760-769, San Francisco, CA, 2000.</li>

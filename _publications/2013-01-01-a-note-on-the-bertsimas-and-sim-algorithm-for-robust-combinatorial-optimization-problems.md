@@ -1,7 +1,8 @@
 ---
 title: "A Note on the Bertsimas and Sim Algorithm for Robust Combinatorial Optimization Problems"
 collection: publications
-author: 'E. Alvarez-Miranda, I. Ljubic, P. Toth'
+type: journal
+author: 'E. Alvarez-Miranda, I. Ljubić, P. Toth'
 permalink: /publication/2013-01-01-a-note-on-the-bertsimas-and-sim-algorithm-for-robust-combinatorial-optimization-problems
 date: 2013-01-01
 venue: '4OR 11(4): 349-360'

@@ -1,7 +1,8 @@
 ---
 title: "An Algorithmic Framework for the Exact Solution of Tree-Star Problems"
 collection: publications
-author: 'M. Leitner, I. Ljubic, J.J. Salazar-Gonzalez, and M. Sinnl'
+type: journal
+author: 'M. Leitner, I. Ljubić, J.J. Salazar-Gonzalez, and M. Sinnl'
 permalink: /publication/2017-01-01-an-algorithmic-framework-for-the-exact-solution-of-tree-star-problems
 date: 2017-01-01
 venue: 'Eur. J. Oper. Res. 261(1): 54-66'

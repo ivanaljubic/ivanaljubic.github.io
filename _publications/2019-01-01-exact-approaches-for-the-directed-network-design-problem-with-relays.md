@@ -1,7 +1,8 @@
 ---
 title: "Exact approaches for the directed network design problem with relays"
 collection: publications
-author: 'M. Leitner, I. Ljubic, M. Riedler, M. Ruthmair'
+type: journal
+author: 'M. Leitner, I. Ljubić, M. Riedler, M. Ruthmair'
 permalink: /publication/2019-01-01-exact-approaches-for-the-directed-network-design-problem-with-relays
 date: 2019-01-01
 venue: 'Omega (91): 102005'

@@ -1,7 +1,8 @@
 ---
 title: "A tailored Benders decomposition approach for last-mile delivery with autonomous robots"
 collection: publications
-author: 'L. Alfandari, I. Ljubic, M. Melo da Silva'
+type: journal
+author: 'L. Alfandari, I. Ljubić, M. Melo da Silva'
 permalink: /publication/2022-01-01-a-tailored-benders-decomposition-approach-for-last-mile-delivery-with-autonomous-robots
 date: 2022-01-01
 venue: 'Eur. J. Oper. Res. 299(2): 510-525'

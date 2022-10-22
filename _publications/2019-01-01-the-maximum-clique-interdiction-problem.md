@@ -1,7 +1,8 @@
 ---
 title: "The Maximum Clique Interdiction Problem"
 collection: publications
-author: 'F. Furini, I. Ljubic, S. Martin, P. San Segundo'
+type: journal
+author: 'F. Furini, I. Ljubić, S. Martin, P. San Segundo'
 permalink: /publication/2019-01-01-the-maximum-clique-interdiction-problem
 date: 2019-01-01
 venue: 'Eur. J. Oper. Res. 277(1): 112-127'

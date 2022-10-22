@@ -1,7 +1,8 @@
 ---
 title: "Lagrangian Decompositions for the Two-Level FTTx Network Design Problem"
 collection: publications
-author: 'A. Bley, I. Ljubic, O. Maurer'
+type: journal
+author: 'A. Bley, I. Ljubić, O. Maurer'
 permalink: /publication/2013-01-01-lagrangian-decompositions-for-the-two-level-fttx-network-design-problem
 date: 2013-01-01
 venue: 'EURO J. Comput. Optim. 1(3-4): 221-252'

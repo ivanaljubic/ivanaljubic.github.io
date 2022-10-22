@@ -1,7 +1,8 @@
 ---
 title: "Comparison of Formulations for the Inventory Routing Problem"
 collection: publications
-author: 'C. Archetti, I. Ljubic'
+type: journal
+author: 'C. Archetti, I. Ljubić'
 permalink: /publication/2022-01-01-comparison-of-formulations-for-the-inventory-routing-problem
 date: 2022-01-01
 venue: ' Eur. J. Oper. Res. 303(3): 997-1008'

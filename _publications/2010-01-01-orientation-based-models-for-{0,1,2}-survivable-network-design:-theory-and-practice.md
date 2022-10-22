@@ -1,7 +1,8 @@
 ---
 title: "Orientation-based Models for {0,1,2}-Survivable Network Design: Theory and Practice"
 collection: publications
-author: 'M. Chimani, M. Kandyba, I. Ljubic, and P. Mutzel'
+type: journal
+author: 'M. Chimani, M. Kandyba, I. Ljubić, and P. Mutzel'
 permalink: /publication/2010-01-01-orientation-based-models-for-{0,1,2}-survivable-network-design:-theory-and-practice
 date: 2010-01-01
 venue: 'Math. Program. 124(1-2): 413-439'

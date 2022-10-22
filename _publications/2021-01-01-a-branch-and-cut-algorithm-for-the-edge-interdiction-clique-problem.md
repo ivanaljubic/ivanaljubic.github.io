@@ -1,7 +1,8 @@
 ---
 title: "A branch-and-cut algorithm for the Edge Interdiction Clique Problem"
 collection: publications
-author: 'F. Furini, I. Ljubic, P. San Segundo, Y. Zhao'
+type: journal
+author: 'F. Furini, I. Ljubić, P. San Segundo, Y. Zhao'
 permalink: /publication/2021-01-01-a-branch-and-cut-algorithm-for-the-edge-interdiction-clique-problem
 date: 2021-01-01
 venue: 'Eur. J. Oper. Res. 294(1): 54-69'

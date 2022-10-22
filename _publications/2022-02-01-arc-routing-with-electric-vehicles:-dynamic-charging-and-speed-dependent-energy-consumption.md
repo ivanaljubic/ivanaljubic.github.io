@@ -1,7 +1,8 @@
 ---
 title: "Arc routing with electric vehicles: dynamic charging and speed-dependent energy consumption"
 collection: publications
-author: 'E. Fernandez, M. Leitner, I. Ljubic, and M. Ruthmair'
+type: journal
+author: 'E. Fernandez, M. Leitner, I. Ljubić, and M. Ruthmair'
 permalink: /publication/2022-02-01-arc-routing-with-electric-vehicles:-dynamic-charging-and-speed-dependent-energy-consumption
 date: 2022-02-01
 venue: 'Transportation Science'

@@ -1,7 +1,8 @@
 ---
 title: "Benders Decomposition for Very Large Scale Partial Set Covering and Maximal Covering Problems"
 collection: publications
-author: 'J.F. Cordeau, F. Furini, I. Ljubic'
+type: journal
+author: 'J.F. Cordeau, F. Furini, I. Ljubić'
 permalink: /publication/2019-01-01-benders-decomposition-for-very-large-scale-partial-set-covering-and-maximal-covering-problems
 date: 2019-01-01
 venue: 'Eur. J. Oper. Res. 275(3): 882-896'

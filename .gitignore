@@ -3,3 +3,5 @@ _site/
 vendor/
 
 .DS_Store
+
+markdown_generator/.ipynb_checkpoints/

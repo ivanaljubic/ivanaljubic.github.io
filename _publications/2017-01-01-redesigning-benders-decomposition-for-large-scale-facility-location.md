@@ -1,7 +1,8 @@
 ---
 title: "Redesigning Benders Decomposition for Large Scale Facility Location"
 collection: publications
-author: 'M. Fischetti, I. Ljubic, M. Sinnl'
+type: journal
+author: 'M. Fischetti, I. Ljubić, M. Sinnl'
 permalink: /publication/2017-01-01-redesigning-benders-decomposition-for-large-scale-facility-location
 date: 2017-01-01
 venue: 'Manag. Sci. 63(7): 2146-2162'

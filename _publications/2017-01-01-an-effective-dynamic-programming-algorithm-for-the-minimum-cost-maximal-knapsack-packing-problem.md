@@ -1,7 +1,8 @@
 ---
 title: "An Effective Dynamic Programming Algorithm for the Minimum-Cost Maximal Knapsack Packing Problem"
 collection: publications
-author: 'F. Furini, I. Ljubic and M. Sinnl'
+type: journal
+author: 'F. Furini, I. Ljubić and M. Sinnl'
 permalink: /publication/2017-01-01-an-effective-dynamic-programming-algorithm-for-the-minimum-cost-maximal-knapsack-packing-problem
 date: 2017-01-01
 venue: 'Eur. J. Oper. Res. 262(2): 438-448'

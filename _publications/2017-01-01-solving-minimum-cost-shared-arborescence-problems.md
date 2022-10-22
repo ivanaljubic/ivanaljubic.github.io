@@ -1,7 +1,8 @@
 ---
 title: "Solving Minimum-Cost Shared Arborescence Problems"
 collection: publications
-author: 'E. Alvarez-Miranda, I. Ljubic, M. Luipersbeck, M. Sinnl'
+type: journal
+author: 'E. Alvarez-Miranda, I. Ljubić, M. Luipersbeck, M. Sinnl'
 permalink: /publication/2017-01-01-solving-minimum-cost-shared-arborescence-problems
 date: 2017-01-01
 venue: 'Eur. J. Oper. Res. 258(3): 887-901'

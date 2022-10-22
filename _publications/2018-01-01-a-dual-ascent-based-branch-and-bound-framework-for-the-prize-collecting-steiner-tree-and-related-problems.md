@@ -1,7 +1,8 @@
 ---
 title: "A Dual Ascent-Based Branch-and-Bound Framework for the Prize-Collecting Steiner Tree and Related Problems"
 collection: publications
-author: 'M. Leitner, I. Ljubic, M. Luipersbeck, M. Sinnl'
+type: journal
+author: 'M. Leitner, I. Ljubić, M. Luipersbeck, M. Sinnl'
 permalink: /publication/2018-01-01-a-dual-ascent-based-branch-and-bound-framework-for-the-prize-collecting-steiner-tree-and-related-problems
 date: 2018-01-01
 venue: 'INFORMS J. Comput. 30(2): 402-420'

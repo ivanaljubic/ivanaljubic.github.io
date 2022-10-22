@@ -1,7 +1,8 @@
 ---
 title: "A polyhedral study of the diameter constrained minimum spanning tree problem"
 collection: publications
-author: 'L. Gouveia, M. Leitner, I. Ljubic'
+type: journal
+author: 'L. Gouveia, M. Leitner, I. Ljubić'
 permalink: /publication/2020-01-01-a-polyhedral-study-of-the-diameter-constrained-minimum-spanning-tree-problem
 date: 2020-01-01
 venue: ' Discret. Appl. Math. 285: 364-379'

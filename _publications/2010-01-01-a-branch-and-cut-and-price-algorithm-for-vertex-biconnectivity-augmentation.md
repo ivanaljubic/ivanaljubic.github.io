@@ -1,7 +1,8 @@
 ---
 title: "A Branch-and-Cut-and-Price Algorithm for Vertex Biconnectivity Augmentation"
 collection: publications
-author: 'I. Ljubic'
+type: journal
+author: 'I. Ljubić'
 permalink: /publication/2010-01-01-a-branch-and-cut-and-price-algorithm-for-vertex-biconnectivity-augmentation
 date: 2010-01-01
 venue: 'Networks 56(3): 169-182'

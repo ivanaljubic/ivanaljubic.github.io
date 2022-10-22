@@ -1,7 +1,8 @@
 ---
 title: "The Generalized Regenerator Location Problem"
 collection: publications
-author: 'S. Chen, I. Ljubic, S. Raghavan'
+type: journal
+author: 'S. Chen, I. Ljubić, S. Raghavan'
 permalink: /publication/2015-01-01-the-generalized-regenerator-location-problem
 date: 2015-01-01
 venue: 'INFORMS J. Comput. 27(2): 204-220'

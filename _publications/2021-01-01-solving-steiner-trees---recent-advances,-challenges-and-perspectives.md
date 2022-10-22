@@ -1,7 +1,8 @@
 ---
 title: "Solving Steiner Trees - Recent Advances, Challenges and Perspectives"
 collection: publications
-author: 'I. Ljubic'
+type: journal
+author: 'I. Ljubić'
 permalink: /publication/2021-01-01-solving-steiner-trees---recent-advances,-challenges-and-perspectives
 date: 2021-01-01
 venue: 'Networks 77(2):177-204'

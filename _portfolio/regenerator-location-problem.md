@@ -47,7 +47,7 @@ The problem is NP-complete (see [1]). <br> In case of uniform regenerator costs,
 
 <td>
 	<ul>
-		<li> Here you can download instances that have been used in our paper:<br>The regenerator location problem, <em> Networks 55(3): 205-220, 2010</em>, by S. Chen, I. Ljubic, and S. Raghavan.<br>This is one of the two most cited Networks paper in 2010. </li>
+		<li> Here you can download instances that have been used in our paper:<br>The regenerator location problem, <em> Networks 55(3): 205-220, 2010</em>, by S. Chen, I. Ljubić, and S. Raghavan.<br>This is one of the two most cited Networks paper in 2010. </li>
 		<li> Three groups of instances are available:
 			<ul>
 				<li> <a href="{{site.url}}/docs/rlp/instances/random.zip">randomly generated instances</a> (40-100 nodes)</li>
@@ -72,6 +72,6 @@ The problem is NP-complete (see [1]). <br> In case of uniform regenerator costs,
 
 <td>
 	<ol>
-		<li> S. Chen, I. Ljubic, and S. Raghavan: <a href="http://onlinelibrary.wiley.com/doi/10.1002/net.20366/pdf">The regenerator location problem</a>, Networks 55(3): 205-220, 2010</li>
+		<li> S. Chen, I. Ljubić, and S. Raghavan: <a href="http://onlinelibrary.wiley.com/doi/10.1002/net.20366/pdf">The regenerator location problem</a>, Networks 55(3): 205-220, 2010</li>
 	</ol>
 </td>

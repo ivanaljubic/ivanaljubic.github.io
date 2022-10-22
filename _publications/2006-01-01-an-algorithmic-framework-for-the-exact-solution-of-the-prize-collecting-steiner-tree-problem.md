@@ -1,7 +1,8 @@
 ---
 title: "An Algorithmic Framework for the Exact Solution of the Prize-Collecting Steiner Tree Problem"
 collection: publications
-author: 'I. Ljubic, R. Weiskircher, U. Pferschy, G. Klau, P. Mutzel, and M.Fischetti'
+type: journal
+author: 'I. Ljubić, R. Weiskircher, U. Pferschy, G. Klau, P. Mutzel, and M.Fischetti'
 permalink: /publication/2006-01-01-an-algorithmic-framework-for-the-exact-solution-of-the-prize-collecting-steiner-tree-problem
 date: 2006-01-01
 venue: 'Math. Program. 105(2-3): 427-449'

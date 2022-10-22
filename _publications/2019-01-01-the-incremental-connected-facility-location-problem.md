@@ -1,7 +1,8 @@
 ---
 title: "The Incremental Connected Facility Location Problem"
 collection: publications
-author: 'A. Arulselvan, A. Bley, I. Ljubic'
+type: journal
+author: 'A. Arulselvan, A. Bley, I. Ljubić'
 permalink: /publication/2019-01-01-the-incremental-connected-facility-location-problem
 date: 2019-01-01
 venue: 'Comput. Oper. Res. 112'

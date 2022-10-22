@@ -1,7 +1,8 @@
 ---
 title: "Location of Charging Stations in Electric Car Sharing Systems"
 collection: publications
-author: 'G. Brandstätter, M. Leitner, and I. Ljubic'
+type: journal
+author: 'G. Brandstätter, M. Leitner, and I. Ljubić'
 permalink: /publication/2020-01-01-location-of-charging-stations-in-electric-car-sharing-systems
 date: 2020-01-01
 venue: 'Transp. Sci. 54(5): 1408-1438'

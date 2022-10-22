@@ -1,7 +1,8 @@
 ---
 title: "The Generalized Reserve Set Covering Problem with Connectivity and Buffer Requirements"
 collection: publications
-author: 'E. Alvarez-Miranda, M. Goycoolea, I. Ljubic, M. Sinnl'
+type: journal
+author: 'E. Alvarez-Miranda, M. Goycoolea, I. Ljubić, M. Sinnl'
 permalink: /publication/2021-01-01-the-generalized-reserve-set-covering-problem-with-connectivity-and-buffer-requirements
 date: 2021-01-01
 venue: 'Eur. J. Oper. Res. 289(3): 1013-1029'

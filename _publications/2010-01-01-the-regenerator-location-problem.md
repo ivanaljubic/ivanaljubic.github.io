@@ -1,7 +1,8 @@
 ---
 title: "The regenerator location problem"
 collection: publications
-author: 'S. Chen, I. Ljubic, and S. Raghavan'
+type: journal
+author: 'S. Chen, I. Ljubić, and S. Raghavan'
 permalink: /publication/2010-01-01-the-regenerator-location-problem
 date: 2010-01-01
 venue: 'Networks 55(3): 205-220'

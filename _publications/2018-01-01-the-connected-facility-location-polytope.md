@@ -1,7 +1,8 @@
 ---
 title: "The Connected Facility Location Polytope"
 collection: publications
-author: 'M. Leitner, I. Ljubic, J.J. Salazar-Gonzalez, M. Sinnl'
+type: journal
+author: 'M. Leitner, I. Ljubić, J.J. Salazar-Gonzalez, M. Sinnl'
 permalink: /publication/2018-01-01-the-connected-facility-location-polytope
 date: 2018-01-01
 venue: 'Discret. Appl. Math. 234: 151-167'

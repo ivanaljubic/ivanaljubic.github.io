@@ -1,7 +1,8 @@
 ---
 title: "On the Use of Intersection Cuts for Bilevel Optimization"
 collection: publications
-author: 'M. Fischetti, I. Ljubic, M. Monaci, M. Sinnl'
+type: journal
+author: 'M. Fischetti, I. Ljubić, M. Monaci, M. Sinnl'
 permalink: /publication/2018-01-01-on-the-use-of-intersection-cuts-for-bilevel-optimization
 date: 2018-01-01
 venue: 'Math. Program. 172(1-2): 77-103'

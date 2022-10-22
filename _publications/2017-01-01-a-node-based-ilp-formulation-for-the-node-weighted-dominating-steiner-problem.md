@@ -1,7 +1,8 @@
 ---
 title: "A Node-Based ILP Formulation for the Node-Weighted Dominating Steiner Problem"
 collection: publications
-author: 'A. Bley, I. Ljubic, O. Maurer'
+type: journal
+author: 'A. Bley, I. Ljubić, O. Maurer'
 permalink: /publication/2017-01-01-a-node-based-ilp-formulation-for-the-node-weighted-dominating-steiner-problem
 date: 2017-01-01
 venue: 'Networks 69(1): 33-51'

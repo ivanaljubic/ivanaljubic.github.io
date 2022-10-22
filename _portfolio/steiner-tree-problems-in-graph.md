@@ -4,7 +4,7 @@ excerpt: "Short descirption about the project"
 collection: portfolio
 ---
 
-by <a href="http://homepage.univie.ac.at/markus.leitner/">Markus Leitner</a>, <a href="http://homepage.univie.ac.at/ivana.ljubic/"> Ivana Ljubic</a> , Martin Luipersbeck, <a href="http://www.fh-kaernten.at/ueber-die-fh/mitarbeiterinnen/detail.html?per_oid=-1025000000000006254">Markus Prossegger</a>, Max Resch <br> University of Vienna
+by <a href="http://homepage.univie.ac.at/markus.leitner/">Markus Leitner</a>, <a href="http://homepage.univie.ac.at/ivana.ljubic/"> Ivana Ljubić</a> , Martin Luipersbeck, <a href="http://www.fh-kaernten.at/ueber-die-fh/mitarbeiterinnen/detail.html?per_oid=-1025000000000006254">Markus Prossegger</a>, Max Resch <br> University of Vienna
 
 ## Input
 
@@ -39,7 +39,7 @@ In network design applications the edges of the input graph typically correspond
 ## Documentation
 
 <td> 
-	M. Leitner, I. Ljubic, M. Luipersbeck, M. Prossegger, M. Resch: <a href="{{site.url}}/docs/stp/realworld-stp-report-short.pdf">New Real-world Instances for the Steiner Tree Problem in Graphs</a>, Technical Report, ISOR, Uni Wien, 2014
+	M. Leitner, I. Ljubić, M. Luipersbeck, M. Prossegger, M. Resch: <a href="{{site.url}}/docs/stp/realworld-stp-report-short.pdf">New Real-world Instances for the Steiner Tree Problem in Graphs</a>, Technical Report, ISOR, Uni Wien, 2014
 </td>
 
 <table cellspacing=10 cellpadding=1>

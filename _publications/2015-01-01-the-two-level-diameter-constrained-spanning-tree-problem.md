@@ -1,7 +1,8 @@
 ---
 title: "The Two-Level Diameter Constrained Spanning Tree Problem"
 collection: publications
-author: 'L. Gouveia, M. Leitner, I. Ljubic'
+type: journal
+author: 'L. Gouveia, M. Leitner, I. Ljubić'
 permalink: /publication/2015-01-01-the-two-level-diameter-constrained-spanning-tree-problem
 date: 2015-01-01
 venue: 'Math. Program. 150(1): 49-78'

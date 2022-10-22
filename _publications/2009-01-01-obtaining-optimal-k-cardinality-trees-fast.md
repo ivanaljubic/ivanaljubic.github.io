@@ -1,7 +1,8 @@
 ---
 title: "Obtaining optimal k-cardinality trees fast"
 collection: publications
-author: 'M. Chimani, M. Kandyba, I. Ljubic, and P. Mutzel'
+type: journal
+author: 'M. Chimani, M. Kandyba, I. Ljubić, and P. Mutzel'
 permalink: /publication/2009-01-01-obtaining-optimal-k-cardinality-trees-fast
 date: 2009-01-01
 venue: 'ACM J. Exp. Algorithmics 14'

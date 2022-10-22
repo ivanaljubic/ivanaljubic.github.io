@@ -1,7 +1,8 @@
 ---
 title: "ILP heuristics and a new exact method for bi-objective 0/1 ILPs: Application to FTTx-network design"
 collection: publications
-author: 'M. Leitner, I. Ljubic, M. Sinnl, A. Werner'
+type: journal
+author: 'M. Leitner, I. Ljubić, M. Sinnl, A. Werner'
 permalink: /publication/2016-01-01-ilp-heuristics-and-a-new-exact-method-for-bi-objective-0/1-ilps:-application-to-fttx-network-design
 date: 2016-01-01
 venue: 'Comput. Oper. Res. 72: 128-146'

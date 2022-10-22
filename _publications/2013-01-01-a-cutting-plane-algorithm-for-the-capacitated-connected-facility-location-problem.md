@@ -1,7 +1,8 @@
 ---
 title: "A cutting plane algorithm for the capacitated connected facility location problem"
 collection: publications
-author: 'S. Gollowitzer, B. Gendron, I. Ljubic'
+type: journal
+author: 'S. Gollowitzer, B. Gendron, I. Ljubić'
 permalink: /publication/2013-01-01-a-cutting-plane-algorithm-for-the-capacitated-connected-facility-location-problem
 date: 2013-01-01
 venue: ' Comput. Optim. Appl. 55(3): 647-674'

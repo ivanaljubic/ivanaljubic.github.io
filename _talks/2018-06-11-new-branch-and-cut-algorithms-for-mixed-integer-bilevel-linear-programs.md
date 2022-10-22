@@ -8,4 +8,4 @@ date: 2018-06-11
 location: "Institut Henri Poincaré, Paris, France"
 ---
 
-This talk was part of Séminaire Parisien d'Optimisation and more information can be found [here]({{site.url}}/docs/slides/Workshop_Ljubic.pdf)
+This talk was part of Séminaire Parisien d'Optimisation and more information can be found [here]({{site.url}}/docs/slides/Workshop_Ljubić.pdf)

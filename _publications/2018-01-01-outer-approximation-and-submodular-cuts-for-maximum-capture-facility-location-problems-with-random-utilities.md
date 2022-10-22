@@ -1,7 +1,8 @@
 ---
 title: "Outer approximation and submodular cuts for maximum capture facility location problems with random utilities"
 collection: publications
-author: 'I. Ljubic, E. Moreno'
+type: journal
+author: 'I. Ljubić, E. Moreno'
 permalink: /publication/2018-01-01-outer-approximation-and-submodular-cuts-for-maximum-capture-facility-location-problems-with-random-utilities
 date: 2018-01-01
 venue: 'Eur. J. Oper. Res. 266(1): 46-56'

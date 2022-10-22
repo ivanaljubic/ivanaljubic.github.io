@@ -1,7 +1,8 @@
 ---
 title: "Exact Approaches for Network Design Problems with Relays"
 collection: publications
-author: 'M. Leitner, I. Ljubic, M. Riedler, M. Ruthmair'
+type: journal
+author: 'M. Leitner, I. Ljubić, M. Riedler, M. Ruthmair'
 permalink: /publication/2019-01-01-exact-approaches-for-network-design-problems-with-relays
 date: 2019-01-01
 venue: 'INFORMS J. Comput. 31(1): 171-192'

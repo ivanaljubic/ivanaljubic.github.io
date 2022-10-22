@@ -1,7 +1,8 @@
 ---
 title: "A Computational Study of Exact Approaches for the Bi-Objective Prize-Collecting Steiner Tree Problem"
 collection: publications
-author: 'M. Leitner, I. Ljubic, M. Sinnl'
+type: journal
+author: 'M. Leitner, I. Ljubić, M. Sinnl'
 permalink: /publication/2015-01-01-a-computational-study-of-exact-approaches-for-the-bi-objective-prize-collecting-steiner-tree-problem
 date: 2015-01-01
 venue: 'INFORMS J. Comput. 27(1): 118-134'

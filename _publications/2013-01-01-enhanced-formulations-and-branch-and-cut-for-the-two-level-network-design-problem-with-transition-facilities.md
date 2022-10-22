@@ -1,7 +1,8 @@
 ---
 title: "Enhanced Formulations and Branch-and-Cut for the Two Level Network Design Problem with Transition Facilities"
 collection: publications
-author: 'S. Gollowitzer, L. Gouveia, I. Ljubic'
+type: journal
+author: 'S. Gollowitzer, L. Gouveia, I. Ljubić'
 permalink: /publication/2013-01-01-enhanced-formulations-and-branch-and-cut-for-the-two-level-network-design-problem-with-transition-facilities
 date: 2013-01-01
 venue: 'Eur. J. Oper. Res. 225(2): 211-222'

@@ -1,7 +1,8 @@
 ---
 title: "Tighter MIP formulations for Barge Container Ship Routing"
 collection: publications
-author: 'L. Alfandari, T. Davidovic, F. Furini, I. Ljubic, V. Maras, S. Martin'
+type: journal
+author: 'L. Alfandari, T. Davidovic, F. Furini, I. Ljubić, V. Maras, S. Martin'
 permalink: /publication/2019-01-01-tighter-mip-formulations-for-barge-container-ship-routing
 date: 2019-01-01
 venue: 'Omega 82: 38-54'

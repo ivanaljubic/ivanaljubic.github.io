@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <b> (['&#643;t&#652;&#618;n&#601;])</b>
-<br> by <a href="http://www.dei.unipd.it/~fisch/"> Matteo Fischetti</a>, <a href="http://homepage.univie.ac.at/markus.leitner/">Markus Leitner</a>, <a href="http://www.essec.edu/en/staff/faculty/ivana-ljubic"> Ivana Ljubic</a>, Martin Luipersbeck, <a href="http://or.dei.unibo.it/staff/michele-monaci">Michele Monaci</a>, Max Resch, <a href="http://www.dei.unipd.it/~salvagni/">Domenico Salvagnin</a>, <a href="http://homepage.univie.ac.at/markus.sinnl/">Markus Sinnl</a> University of Padua and University of Vienna
+<br> by <a href="http://www.dei.unipd.it/~fisch/"> Matteo Fischetti</a>, <a href="http://homepage.univie.ac.at/markus.leitner/">Markus Leitner</a>, <a href="http://www.essec.edu/en/staff/faculty/ivana-ljubic"> Ivana Ljubić</a>, Martin Luipersbeck, <a href="http://or.dei.unibo.it/staff/michele-monaci">Michele Monaci</a>, Max Resch, <a href="http://www.dei.unipd.it/~salvagni/">Domenico Salvagnin</a>, <a href="http://homepage.univie.ac.at/markus.sinnl/">Markus Sinnl</a> University of Padua and University of Vienna
 
 ## DESCRIPTION
 
@@ -24,7 +24,7 @@ collection: portfolio
 ## REFERENCE
 
 <td>  
-	Please refer to the following publication when using our solver: <br> <b>M. Fischetti, M. Leitner, I. Ljubic, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin, M. Sinnl <br> <a href="http://homepage.univie.ac.at/ivana.ljubic/research/publications/ymodel_final.pdf">Thinning out Steiner trees: a node based model for uniform edge costs</a> <br> Mathematical Programming Computation 9(2): 203-229, 2017, DOI: 10.1007/s12532-016-0111-0</b>
+	Please refer to the following publication when using our solver: <br> <b>M. Fischetti, M. Leitner, I. Ljubić, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin, M. Sinnl <br> <a href="http://homepage.univie.ac.at/ivana.ljubic/research/publications/ymodel_final.pdf">Thinning out Steiner trees: a node based model for uniform edge costs</a> <br> Mathematical Programming Computation 9(2): 203-229, 2017, DOI: 10.1007/s12532-016-0111-0</b>
 </td>
 
 ## PROBLEM DEFINITION
@@ -78,7 +78,7 @@ Steps necessary to build the dynamic libraries and verify that the solver works 
 
 <td>
 This code is free software to be used for academic purpose only. If you use it in your research, give the credits to our publication: <br>
-<b>M. Fischetti, M. Leitner, I. Ljubic, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin, M. Sinnl <br> Thinning out Steiner trees: a node based model for uniform edge costs,<br> Mathematical Programming Computation 9(2): 203-229, 2017, DOI: 10.1007/s12532-016-0111-0 </b><br><br>
+<b>M. Fischetti, M. Leitner, I. Ljubić, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin, M. Sinnl <br> Thinning out Steiner trees: a node based model for uniform edge costs,<br> Mathematical Programming Computation 9(2): 203-229, 2017, DOI: 10.1007/s12532-016-0111-0 </b><br><br>
 
 Part of the staynerd code makes use of the following software (for which you might need a valid license in order to be able to run the code):
 

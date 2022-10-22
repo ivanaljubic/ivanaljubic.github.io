@@ -1,7 +1,8 @@
 ---
 title: "Decomposition methods for the two-stage stochastic Steiner tree problem"
 collection: publications
-author: 'M. Leitner, I. Ljubic, M. Luipersbeck, M. Sinnl'
+type: journal
+author: 'M. Leitner, I. Ljubić, M. Luipersbeck, M. Sinnl'
 permalink: /publication/2018-01-01-decomposition-methods-for-the-two-stage-stochastic-steiner-tree-problem
 date: 2018-01-01
 venue: 'Comput. Optim. Appl. 69(3): 713-752'

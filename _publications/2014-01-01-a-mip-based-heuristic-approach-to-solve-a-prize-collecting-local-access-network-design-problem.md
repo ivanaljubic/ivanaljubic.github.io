@@ -1,7 +1,8 @@
 ---
 title: "A MIP-based Heuristic Approach to solve a Prize-Collecting Local Access Network Design Problem"
 collection: publications
-author: 'I. Ljubic. P. Putz, and J.J. Salazar-Gonzalez'
+type: journal
+author: 'I. Ljubić. P. Putz, and J.J. Salazar-Gonzalez'
 permalink: /publication/2014-01-01-a-mip-based-heuristic-approach-to-solve-a-prize-collecting-local-access-network-design-problem
 date: 2014-01-01
 venue: 'Eur. J. Oper. Res. 235(3): 727-739'

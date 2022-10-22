@@ -1,7 +1,8 @@
 ---
 title: "Interdiction Games and Monotonicity, with Application to Knapsack Problems"
 collection: publications
-author: 'M. Fischetti, I. Ljubic, M. Monaci, M. Sinnl'
+type: journal
+author: 'M. Fischetti, I. Ljubić, M. Monaci, M. Sinnl'
 permalink: /publication/2019-01-01-interdiction-games-and-monotonicity,-with-application-to-knapsack-problems
 date: 2019-01-01
 venue: 'INFORMS J. Comput. 31(2): 390-410'

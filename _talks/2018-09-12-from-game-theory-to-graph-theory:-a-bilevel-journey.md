@@ -8,4 +8,4 @@ date: 2018-09-12
 location: "Brussels, Belgium"
 ---
 
-This talk was part of [OR 2018: International Conference on Operations Research](https://www.or2018.be/welcome/index) and more information can be found [here]({{site.url}}/docs/https://www.or2018.be/slides/Ljubic.pdf)
+This talk was part of [OR 2018: International Conference on Operations Research](https://www.or2018.be/welcome/index) and more information can be found [here]({{site.url}}/docs/https://www.or2018.be/slides/Ljubić.pdf)

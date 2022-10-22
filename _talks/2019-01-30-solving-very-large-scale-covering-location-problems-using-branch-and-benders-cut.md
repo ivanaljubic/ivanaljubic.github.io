@@ -8,4 +8,4 @@ date: 2019-01-30
 location: "Cádiz, Spain"
 ---
 
-This talk was part of [IX International Workshop on Locational Analysis and Related Problems 2019](http://redloca.ulpgc.es/redloca18.html) and more information can be found [here]({{site.url}}/docs/slides/IWOLOCA2019_Ljubic.pdf)
+This talk was part of [IX International Workshop on Locational Analysis and Related Problems 2019](http://redloca.ulpgc.es/redloca18.html) and more information can be found [here]({{site.url}}/docs/slides/IWOLOCA2019_Ljubić.pdf)

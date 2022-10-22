@@ -1,7 +1,8 @@
 ---
 title: "Evolutionary local search for the edge-biconnectivity augmentation problem"
 collection: publications
-author: 'Günther R. Raidl, Ivana Ljubic'
+type: journal
+author: 'Günther R. Raidl, Ivana Ljubić'
 permalink: /publication/2002-01-01-evolutionary-local-search-for-the-edge-biconnectivity-augmentation-problem
 date: 2002-01-01
 venue: 'Inf. Process. Lett. 82(1): 39-45'

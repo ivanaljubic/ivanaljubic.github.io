@@ -1,7 +1,8 @@
 ---
 title: "Exact Approaches to the Single-Source Network Loading Problem"
 collection: publications
-author: 'I. Ljubic. P. Putz, and J.J. Salazar-Gonzalez'
+type: journal
+author: 'I. Ljubić. P. Putz, and J.J. Salazar-Gonzalez'
 permalink: /publication/2012-01-01-exact-approaches-to-the-single-source-network-loading-problem
 date: 2012-01-01
 venue: 'Networks 59(1): 89-106'

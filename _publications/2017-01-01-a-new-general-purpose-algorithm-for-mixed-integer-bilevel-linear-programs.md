@@ -1,7 +1,8 @@
 ---
 title: "A new general-purpose algorithm for mixed-integer bilevel linear programs"
 collection: publications
-author: 'M. Fischetti, I. Ljubic, M. Monaci, M. Sinnl'
+type: journal
+author: 'M. Fischetti, I. Ljubić, M. Monaci, M. Sinnl'
 permalink: /publication/2017-01-01-a-new-general-purpose-algorithm-for-mixed-integer-bilevel-linear-programs
 date: 2017-01-01
 venue: 'Oper. Res. 65(6): 1615-1637'

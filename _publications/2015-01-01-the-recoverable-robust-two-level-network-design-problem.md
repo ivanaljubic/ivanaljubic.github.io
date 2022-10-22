@@ -1,7 +1,8 @@
 ---
 title: "The Recoverable Robust Two-Level Network Design Problem"
 collection: publications
-author: 'E. Alvarez-Miranda, I. Ljubic, S. Raghavan, P. Toth'
+type: journal
+author: 'E. Alvarez-Miranda, I. Ljubić, S. Raghavan, P. Toth'
 permalink: /publication/2015-01-01-the-recoverable-robust-two-level-network-design-problem
 date: 2015-01-01
 venue: 'INFORMS J. Comput. 27(1): 1-19'

@@ -8,4 +8,4 @@ date: 2018-03-26
 location: "CNAM, Paris, France"
 ---
 
-This talk was part of [37ème Journées Franciliennes de Recherche Opérationnelle](http://www.lamsade.dauphine.fr/~jfro/JourneesPrecedentes/anciennesJournees/jfro37.html) and more information can be found [here]({{site.url}}/docs/slides/JFRO_Ljubic.pdf)
+This talk was part of [37ème Journées Franciliennes de Recherche Opérationnelle](http://www.lamsade.dauphine.fr/~jfro/JourneesPrecedentes/anciennesJournees/jfro37.html) and more information can be found [here]({{site.url}}/docs/slides/JFRO_Ljubić.pdf)
