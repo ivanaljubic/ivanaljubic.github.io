@@ -10,3 +10,24 @@ paperurl: "https://ieeexplore.ieee.org/document/9142789"
 ---
 
 [View paper here](https://ieeexplore.ieee.org/document/9142789)
+
+### Bibtex:
+
+```
+@inproceedings{DBLP:conf/networking/MouaciGLP20,
+  author    = {Ahlam Mouaci and
+               {\'{E}}ric Gourdin and
+               Ivana Ljubic and
+               Nancy Perrot},
+  title     = {Virtual Network Functions Placement and Routing Problem: Path formulation},
+  booktitle = {2020 {IFIP} Networking Conference, Networking 2020, Paris, France,
+               June 22-26, 2020},
+  pages     = {55--63},
+  publisher = {{IEEE}},
+  year      = {2020},
+  url       = {https://ieeexplore.ieee.org/document/9142789},
+  timestamp = {Thu, 23 Jul 2020 11:14:09 +0200},
+  biburl    = {https://dblp.org/rec/conf/networking/MouaciGLP20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
