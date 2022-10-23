@@ -1,7 +1,8 @@
 ---
 title: "The Maximum Weight Connected Subgraph Problem"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2012-11-22-the-maximum-weight-connected-subgraph-problem
 venue: "COGA Seminar"
 date: 2012-11-22

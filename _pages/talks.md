@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
@@ -11,8 +11,28 @@ author_profile: true
 
 {% endif %}
 
+## Plenary/Keynote Talks
+
 {% for post in site.talks reversed %}
+{% if post.type == 'plenarykeynote' %}
 {% include archive-single-talk.html %}
+{% endif %}
+{% endfor %}
+
+## Other Invited Talks, Seminars and Tutorials
+
+{% for post in site.talks reversed %}
+{% if post.type == 'othertalk' %}
+{% include archive-single-talk.html %}
+{% endif %}
+{% endfor %}
+
+## Recent Presentations at International Conferences
+
+{% for post in site.talks reversed %}
+{% if post.type == 'intlpresentation' %}
+{% include archive-single-talk.html %}
+{% endif %}
 {% endfor %}
 
 ## Other Visited Events

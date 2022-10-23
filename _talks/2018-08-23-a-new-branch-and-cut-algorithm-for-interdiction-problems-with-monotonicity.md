@@ -1,7 +1,8 @@
 ---
 title: "A new branch-and-cut algorithm for interdiction problems with monotonicity"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2018-08-23-a-new-branch-and-cut-algorithm-for-interdiction-problems-with-monotonicity
 venue: "USC Center for Artificial Intelligence in Society"
 ---

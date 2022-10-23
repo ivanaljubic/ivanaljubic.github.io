@@ -1,7 +1,8 @@
 ---
 title: "A polyhedral study of the diameter constrained minimum spanning tree problem"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2015-05-06-a-polyhedral-study-of-the-diameter-constrained-minimum-spanning-tree-problem
 venue: "Seminario conjunto ACGO y Matemáticas Discretas"
 date: 2015-05-06

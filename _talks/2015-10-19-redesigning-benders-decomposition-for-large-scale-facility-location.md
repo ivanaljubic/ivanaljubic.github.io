@@ -1,7 +1,8 @@
 ---
 title: "Redesigning Benders Decomposition for Large Scale Facility Location"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2015-10-19-redesigning-benders-decomposition-for-large-scale-facility-location
 venue: "GOM Seminar"
 date: 2015-10-19

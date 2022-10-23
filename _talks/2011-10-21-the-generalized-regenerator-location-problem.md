@@ -1,7 +1,8 @@
 ---
 title: "The Generalized Regenerator Location Problem"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2011-10-21-the-generalized-regenerator-location-problem
 venue: "Decision, Operations and Information Technologies Seminar"
 date: 2011-10-21

@@ -1,0 +1,50 @@
+category	date	title	venue	location	talk_url	venue_url	description
+Presentation	2021-07-11	The Edge Interdiction Clique Problem	EURO Athens	Greece		https://euro2021athens.com/	
+Presentation	2020-10-20	Two Branch-and-cut Algorithms for the Directed Network Design Problem with Relays	15th INFORMS Telecommunications and Network Analytics Conference	Online		http://informs_tnac2020.zib.de	
+Presentation	2019-10-20	A New Bilevel Approach For the k-vertex Cut Problem	INFORMS Annual Meeting	Seattle, Washington, US		http://meetings2.informs.org/wordpress/seattle2019/	
+Presentation	2019-06-12	On Integer and Bilevel Formulations for the k-Vertex Cut Problem	International Network Optimization Conference	Avignon, France	slides/INOC2019_Ljubic.pdf	https://inoc2019.sciencesconf.org/	
+Presentation	2019-06-02	Optimal vehicle routing with autonomous devices for last-mile delivery	VeRoLog - Workshop of the EURO Working Group on Vehicle Routing and Logistics optimization	Seville, Spain		https://verolog2019.sciencesconf.org/browse/speaker?authorid=369995	
+Presentation	2018-11-02	Clique Interdiction Attacks in Networks	INFORMS Annual Meeting	Phoenix, AZ, US		http://meetings2.informs.org/wordpress/phoenix2018/	
+Presentation	2018-07-09	Benders Decomposition for Covering Location Problems	EURO 2018	Valencia, Spain		http://euro2018valencia.com/	
+Presentation	2018-07-03	Decomposition Approaches to Covering Location Problems	ISMP 2018	Bordeaux, France			
+Presentation	2018-06-08	The Directed Network Design Problem with Relays	Odysseus - Seventh International Workshop on Freight Transportation and Logistics	Cagliari, Italy	slides/Odysseus2018_Ljubic.pdf	http://convegni.unica.it/odysseus2018/	
+Presentation	2018-01-01	MIP Modeling of Incremental Connected Facility Location	INFORMS Telecommunications Conference	Hamburg, Germany	slides/informsTelecom2018_Ljubic.pdf	https://www.bwl.uni-hamburg.de/en/iwi/forschung/konferenzen/informs2018.html	
+Presentation	2017-09-22	Decomposition Methods for Stochastic Steiner Trees	European Conference on Stochastic Optimization, ECSO	Rome, Italy	slides/ECSO2017_Ljubic.pdf		
+Presentation	2017-09-07	Outer Approximation and Submodular Cuts for Maximum Capture Facility Location Problems with Random Utilities	Optimization Conference	Lisbon, Portugal	slides/Optimization2017_Ljubic.pdf	http://optimization2017.fc.ul.pt	
+Presentation	2017-09-06	New Decomposition Approaches for the Two-Stage Stochastic Steiner Tree Problem	Workshop celebrating the 60th birthday of Luis Gouveia	Lisbon, Portugal		http://optimization2017.fc.ul.pt/workshop.html	
+Presentation	2017-02-28	Clique Interdiction in the Social Network Analysis	INOC 2017	Lisbon, Portugal		http://inoc2017.fc.ul.pt/	
+Presentation	2017-02-23	On Clique Interdiction Problems in Graphs	ROADEF 2017	Metz, France		http://roadef2017.event.univ-lorraine.fr/	
+Presentation	2016-11-08	Interdiction Games and Monotonicity	PGMO Days 2016	Paris, France	https://www.fondation-hadamard.fr/sites/default/files/public/bibliotheque/gamesandprobabilities-ljubic.pdf	https://www.fondation-hadamard.fr/fr/pgmo/pgmodays#OR2	
+Presentation	2016-07-11	A new exact solver for mixed-integer bilevel linear programs based in intersection cuts	GO X	Mount Rigi, Switzerland		http://campus.hesge.ch/varones/go/10/#	
+Presentation	2016-07-05	Intersection Cuts for Mixed-Integer Bilevel Linear Programs	EURO 2016	Poznan, Poland		http://www.euro2016.poznan.pl/	
+Presentation	2016-06-13	Generalized Benders Cuts for Congested Facility Location	TRISTAN 2016	Aruba		http://tristan-symposium.org/	
+Presentation	2016-05-16	Exact Approaches for Network Design Problems with Relays	ISCO 2016	Vietri sul Mare, Italy		http://isco2016.it/	
+Presentation	2016-03-21	Solving Minimum-Cost Shared Arborescence Problems	INFORMS Telecommunications Conference	Boca Raton, FL, USA		https://sites.psu.edu/informstelecom2016/	
+Presentation	2016-02-10	Solving Congested Facility Location by Branch-and-Cut	ROADEF	Compiegne, France		http://roadef2016.utc.fr/papers/235/	
+Presentation	2015-09-02	Exact  Approaches  to  the  Network  Design  Problem with Relays	OR 2015	Vienna, Austria		http://or2015.univie.ac.at	
+Presentation	2015-07-14	ILP Formulations for the Lazy Bureaucrat Problem	EURO 2015	Glasgow, UK		www.euro2015.org	
+Presentation	2015-05-20	A node-based layered graph approach for hop-constrained Steiner trees	INOC 2015	Warsaw, Poland		www.inoc2015.pl	
+Presentation	2014-05-21	The Recoverable Robust Two-Level Network Design Problem	SIAM Conference on Optimization	San Diego, CA		http://www.siam.org/meetings/op14/	
+Presentation	2014-05-21	The Recoverable Robust Facility Location Problem	ISCO 2014	Lissabon, Portugal		http://isco2014.fc.ul.pt/	
+Presentation	2013-07-03	The Maximum Weight Connected Subgraph Problem	EURO-INFORMS Joint International Meeting	Rome, Italy		http://euro2013.org/	
+Presentation	2012-08-19	Layered graph models for hop constrained trees with multiple roots	21st International Symposium on Mathematical Programming (ISMP)	Berlin, Germany		http://ismp2012.mathopt.org/	
+Presentation	2012-07-08	Capacitated Network Design with Facility Location	25th European Conference on Operational Research (EURO 2012)	Vilnius, Lithuania		http://www.euro-2012.lt/welcome	
+Presentation	2012-04-17	Capacitated Network Design and Facility Location	2nd International Symposium on Combinatorial Optimization (ISCO 2012)	Athens, Greece		http://isco12.cs.aueb.gr/	
+Presentation	2012-03-15	On the Hop Constrained Steiner Tree Problem with Multiple Root Nodes	The 11th INFORMS Telecommunications Conference	Boca Raton, FL		http://www.informs.org/Community/Conferences/2012-INFORMS-Telecommunications-Conference	
+Presentation	2012-03-15	Solving Two-Stage Network Design Problems by Two-Stage Branch-and-Cut	 The 11th INFORMS Telecommunications Conference	Boca Raton, FL		http://www.informs.org/Community/Conferences/2012-INFORMS-Telecommunications-Conference	
+Presentation	2011-06-13	The Two Level Network Design Problem with Secondary Hop Constraints	Network Optimization - 5th International Conference, INOC 2011	Hamburg, Germany			
+Presentation	2011-01-10	A Two Level Network Design Problem with Transition Nodes	15th Combinatorial Optimization Workshop	Aussois, France		http://www.iasi.cnr.it/aussois/web/home	
+Presentation	2010-07-28	Solving Two-Stage Stochastic Steiner Tree Problems by Two-Stage Branch-and-Cut	Computational Management Science 2010	Vienna, Austria		http://www.univie.ac.at/cms2010/index.php	
+Presentation	2010-07-11	The Generalized Regenerator Location Problem	EURO XXIV	Lisbon, Portugal		http://www.euro2010lisbon.org/	
+Presentation	2010-05-05	MIP Models for Connected Facility Location:A Theoretical and Computational Study	The 10th INFORMS Telecommunications Conference	Montreal, Canada		https://symposia.cirrelt.ca/Informs-Telecom2010/	
+Presentation	2010-05-10	The Generalized Regenerator Location Problem	Journées de l'Optimisation	Montréal, Canada		http://w1.cirrelt.ca/jopt2010/en/	
+Presentation	2009-08-23	A Branch-and-cut-and-price Algorithm for Vertex-biconnectivity Augmentation	International Symposium of Mathematical Programming (ISMP)	Chicago, Illinois, USA		http://ismp2009.eecs.northwestern.edu/	
+Presentation	2009-04-26	The Generalized Regenerator Location Problem	International Network Optimization Conference (INOC)	Pisa, Italy		http://www.di.unipi.it/INOC2009/	
+Presentation	2009-01-11	Exact Approaches to the Single-source Network Loading Problem	13th Combinatorial Optimization Workshop	Aussois, France		http://makalu.informatik.uni-heidelberg.de/	
+Presentation	2008-10-12	Benders Cuts for the Single-source Network Loading Problem	INFORMS Annual Meeting 2008	Washington, DC		https://informs.emeetingsonline.com/emeetings/formbuilder/clustersessiondtl.asp?csnno=8974&mmnno=176&ppnno=33931	
+Presentation	2008-05-10	Strong Formulations for 2-Node-Connected Steiner Network Problems	SIAM Conference on Optimization	Boston, Massachusetts		http://www.siam.org/meetings/op08/	
+Presentation	2008-03-27	Solving Connected Facility Location to Provable Optimality	Ninth INFORMS Telecommunications Conference	University of Maryland, College Park, Washington DC Area		http://telecom.section.informs.org/conference08/	
+Presentation	2007-10-08	A Hybrid VNS for Connected Facility Location	HM 2007	Dormund, Germany		http://ls11-www.cs.uni-dortmund.de/hm2007/index.php	
+Presentation	2007-07-22	Facility Location and Steiner Trees	Optimization	Porto, Portugal		http://www.fep.up.pt/opti2007/	
+Presentation	2007-02-12	Connected Facility Location-VNS, Tabu-Search and Branch-and-Cut	Learning and Intelligent OptimizatioN (LION 2007)	Andalo (Trento), Italy		http://www.intelligent-optimization.org/	
+Presentation	2005-01-22	Solving the Prize-Collecting Steiner Tree Problem to Optimality	Algorithm Engineering and Experiments (ALENEX 2005)	Vancouver, British Columbia, Canada		http://www.siam.org/meetings/alenex05/	

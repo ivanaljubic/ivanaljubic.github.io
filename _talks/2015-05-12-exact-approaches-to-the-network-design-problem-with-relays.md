@@ -1,7 +1,8 @@
 ---
 title: "Exact Approaches to the Network Design Problem with Relays"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2015-05-12-exact-approaches-to-the-network-design-problem-with-relays
 venue: "Séminaires de l'équipe AOC"
 date: 2015-05-12

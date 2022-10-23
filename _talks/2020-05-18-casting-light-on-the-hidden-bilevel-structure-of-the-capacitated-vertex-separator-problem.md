@@ -1,7 +1,8 @@
 ---
 title: "Casting Light on the Hidden Bilevel Structure of the Capacitated Vertex Separator Problem"
 collection: talks
-type: "Plenary/Keynote Talk"
+category: "Plenary/Keynote Talk"
+type: "plenarykeynote"
 permalink: /talks/2020-05-18-casting-light-on-the-hidden-bilevel-structure-of-the-capacitated-vertex-separator-problem
 venue: "Mixed Integer Programming Workshop 2020 Online Edition (MIP2020)"
 ---

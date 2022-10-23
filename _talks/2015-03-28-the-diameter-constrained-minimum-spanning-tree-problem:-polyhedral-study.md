@@ -1,7 +1,8 @@
 ---
 title: "The diameter constrained minimum spanning tree problem: Polyhedral study"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2015-03-28-the-diameter-constrained-minimum-spanning-tree-problem:-polyhedral-study
 venue: "Encontro do Centro de Investigação Operacional"
 date: 2015-03-28

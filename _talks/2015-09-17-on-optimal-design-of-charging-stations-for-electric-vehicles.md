@@ -1,7 +1,8 @@
 ---
 title: "On optimal design of charging stations for electric vehicles"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2015-09-17-on-optimal-design-of-charging-stations-for-electric-vehicles
 venue: "PGMO Seminar"
 date: 2015-09-17

@@ -1,7 +1,8 @@
 ---
 title: "Panel Discussion Real-World Optimisation Models: Successes and Pitfalls"
 collection: talks
-type: "Plenary/Keynote Talk"
+category: "Plenary/Keynote Talk"
+type: "plenarykeynote"
 permalink: /talks/2021-02-25-panel-discussion-real-world-optimisation-models:-successes-and-pitfalls
 venue: "Beale Lecture, The OR Society"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Branch-and-Benders-cut algorithms: modern implementations of Benders Decomposition"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2020-01-20-branch-and-benders-cut-algorithms:-modern-implementations-of-benders-decomposition
 venue: "9th Winter School on Network Optimization"
 date: 2020-01-20

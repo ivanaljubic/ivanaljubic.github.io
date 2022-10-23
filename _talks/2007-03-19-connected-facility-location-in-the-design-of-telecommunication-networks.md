@@ -1,7 +1,8 @@
 ---
 title: "Connected facility location in the design of telecommunication networks"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2007-03-19-connected-facility-location-in-the-design-of-telecommunication-networks
 venue: "ISDS-Kolloquium"
 date: 2007-03-19

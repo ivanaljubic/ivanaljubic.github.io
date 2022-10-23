@@ -1,7 +1,8 @@
 ---
 title: "New Branch-and-Cut Algorithms for Mixed-Integer Bilevel Linear Programs"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2018-06-11-new-branch-and-cut-algorithms-for-mixed-integer-bilevel-linear-programs
 venue: "Séminaire Parisien d'Optimisation"
 date: 2018-06-11

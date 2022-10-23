@@ -1,7 +1,8 @@
 ---
 title: "The Recoverable Robust Two-Level Network Design Problem"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2012-04-26-the-recoverable-robust-two-level-network-design-problem
 venue: "Kolloquium Optimierung und Operations Research"
 date: 2012-04-26

@@ -1,7 +1,8 @@
 ---
 title: "A new general-purpose algorithm for mixed-integer bilevel linear programs"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2016-10-08-a-new-general-purpose-algorithm-for-mixed-integer-bilevel-linear-programs
 venue: "15ème séminaire du groupe POC - Combinatorial Bi-level optimization"
 date: 2016-10-08

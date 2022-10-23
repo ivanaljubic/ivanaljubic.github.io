@@ -1,7 +1,8 @@
 ---
 title: "Mixed Integer Bilevel Optimization"
 collection: talks
-type: "Plenary/Keynote Talk"
+category: "Plenary/Keynote Talk"
+type: "plenarykeynote"
 permalink: /talks/2021-07-20-mixed-integer-bilevel-optimization
 venue: "SIAM Conference on Optimization (OP21)"
 ---

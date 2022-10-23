@@ -1,7 +1,8 @@
 ---
 title: "A New Modeling Concept for Facility Location Under Uncertainty"
 collection: talks
-type: "Seminar"
+category: "Seminar"
+type: "othertalk"
 permalink: /talks/2015-03-10-a-new-modeling-concept-for-facility-location-under-uncertainty
 venue: "Operations Group"
 date: 2015-03-10

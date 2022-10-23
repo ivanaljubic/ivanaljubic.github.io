@@ -1,7 +1,8 @@
 ---
 title: "MIP Approaches to the Lazy Bureaucrat and Greedy Boss Problems"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2015-05-11-mip-approaches-to-the-lazy-bureaucrat-and-greedy-boss-problems
 venue: "Séminaire Pôle 2 Optimisation Combinatoire"
 date: 2015-05-11

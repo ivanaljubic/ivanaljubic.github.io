@@ -1,7 +1,8 @@
 ---
 title: "Very Large Scale Covering Location Problems in the Design of Advanced Metering Infrastructure"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2018-10-08-very-large-scale-covering-location-problems-in-the-design-of-advanced-metering-infrastructure
 venue: "Workshop on Smart Cities Analytics"
 date: 2018-10-08

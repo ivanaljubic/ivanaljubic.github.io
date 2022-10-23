@@ -1,7 +1,8 @@
 ---
 title: "Recent Developments on Exact Solvers for the (Prize-Collecting) Steiner Tree Problem"
 collection: talks
-type: "Plenary/Keynote Talk"
+category: "Plenary/Keynote Talk"
+type: "plenarykeynote"
 permalink: /talks/2018-06-18-recent-developments-on-exact-solvers-for-the-(prize-collecting)-steiner-tree-problem
 venue: "22nd Belgian Mathematical Programming Workshop"
 date: 2018-06-18

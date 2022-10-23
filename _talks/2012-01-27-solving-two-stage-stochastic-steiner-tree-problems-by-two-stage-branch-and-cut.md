@@ -1,7 +1,8 @@
 ---
 title: "Solving Two-Stage Stochastic Steiner Tree Problems by Two-Stage Branch-and-Cut"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2012-01-27-solving-two-stage-stochastic-steiner-tree-problems-by-two-stage-branch-and-cut
 venue: "Department of Decision Sciences, George Washington University"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "OptTelNets: Algorithmische Ansätze"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2010-08-16-opttelnets:-algorithmische-ansätze
 venue: "Workshop on Optical Access Networks, COGA"
 date: 2010-08-16

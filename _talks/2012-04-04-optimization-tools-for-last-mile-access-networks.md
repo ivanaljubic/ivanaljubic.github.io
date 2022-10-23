@@ -1,7 +1,8 @@
 ---
 title: "Optimization Tools for Last Mile Access Networks"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2012-04-04-optimization-tools-for-last-mile-access-networks
 venue: "Kolloquium of the Computer Science Department"
 date: 2012-04-04

@@ -1,7 +1,8 @@
 ---
 title: "On Benders Decomposition for Facility Location"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2017-12-07-on-benders-decomposition-for-facility-location
 venue: "9ème Journée d'Automne d'Optimisation dans les Réseaux, ROADEF GT d'Optimisation des Réseaux"
 date: 2017-12-07

@@ -1,7 +1,8 @@
 ---
 title: "Optimization in Telecommunication Networks: Multicommodity Flow, Facility Location and Steiner Tree Problems"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2006-07-31-optimization-in-telecommunication-networks:-multicommodity-flow,-facility-location-and-steiner-tree-problems
 venue: "CI-Colloquium, Sonderforschungbereich Computational Intelligence"
 date: 2006-07-31

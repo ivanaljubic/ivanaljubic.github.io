@@ -1,7 +1,8 @@
 ---
 title: "Exact General-Purpose Solvers for Mixed-Integer Bilevel Linear Programs"
 collection: talks
-type: "Talk"
+category: "Talk"
+type: "othertalk"
 permalink: /talks/2018-03-26-exact-general-purpose-solvers-for-mixed-integer-bilevel-linear-programs
 venue: "37ème Journées Franciliennes de Recherche Opérationnelle"
 date: 2018-03-26
