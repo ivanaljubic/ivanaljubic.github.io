@@ -24,7 +24,7 @@ collection: portfolio
 ## REFERENCE
 
 <td>  
-	Please refer to the following publication when using our solver: <br> <b>M. Fischetti, M. Leitner, I. Ljubić, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin, M. Sinnl <br> <a href="http://homepage.univie.ac.at/ivana.ljubic/research/publications/ymodel_final.pdf">Thinning out Steiner trees: a node based model for uniform edge costs</a> <br> Mathematical Programming Computation 9(2): 203-229, 2017, DOI: 10.1007/s12532-016-0111-0</b>
+	Please refer to the following publication when using our solver: <br> <b>M. Fischetti, M. Leitner, I. Ljubić, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin, M. Sinnl <br> <a href="https://link.springer.com/article/10.1007/s12532-016-0111-0">Thinning out Steiner trees: a node based model for uniform edge costs</a> <br> Mathematical Programming Computation 9(2): 203-229, 2017, DOI: 10.1007/s12532-016-0111-0</b>
 </td>
 
 ## PROBLEM DEFINITION
