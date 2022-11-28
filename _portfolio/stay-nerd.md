@@ -60,7 +60,7 @@ Steps necessary to build the dynamic libraries and verify that the solver works 
 		<li> Set the environment variable  CPLEX_DIR to the base directory of the CPLEX installation on your system (e.g., /opt/ibm/ILOG/CPLEX_Studio126).</li>
 		<li> Run the script <CODE><b>make_cplex_dynamic.sh</b></CODE> provided with the binary to create the dynamic CPLEX library files libconcert.so, libcplex.so and libilocplex.so.</li>
 		<li> Make sure that the dynamic libraries are placed in the same directory as the solver binary <CODE><b>staynerd</b></CODE> and the license file <CODE><b>staynerd.license</b></CODE>.</li>
-		<li> A simple way to run the solver is as follows (see <a href="staynerd_user_manual.pdf">user manual</a> for more options): <br><CODE><b>staynerd [inputfile] [timelimit] [threads] [outputfile]</b></CODE></li>
+		<li> A simple way to run the solver is as follows (see <a href="{{site.url}}/docs/stay-nerd/staynerd_user_manual.pdf">user manual</a> for more options): <br><CODE><b>staynerd [inputfile] [timelimit] [threads] [outputfile]</b></CODE></li>
 	</ol>
 
 <b> <a href="{{site.url}}/docs/stay-nerd/staynerd.zip"> DOWNLOAD THE PACKAGE HERE </a></b> <br>
