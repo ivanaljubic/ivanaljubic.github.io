@@ -3,13 +3,15 @@ title: "Submodular maximization of concave utility functions composed with a set
 collection: publications
 type: journal
 author: "S. Coniglio, F. Furini, I. Ljubić"
-permalink: /publication/2020-01-01-maximizing-submodular-utility-functions-combined-with-a-set-union-operator-over-a-discrete-set
-date: 2020-01-01
+permalink: /publication/2022-11-28-maximizing-submodular-utility-functions-combined-with-a-set-union-operator-over-a-discrete-set
+date: 2022-11-28
 venue: " Mathematical Programming, 196, 9-56"
 paperurl: "http://www.optimization-online.org/DB_FILE/2020/04/7715.pdf"
 ---
 
-[View paper here](http://www.optimization-online.org/DB_FILE/2020/04/7715.pdf)
+[View paper here](https://link.springer.com/article/10.1007/s10107-022-01884-7)
+
+[Download paper here](http://www.optimization-online.org/DB_FILE/2020/04/7715.pdf)
 
 ### Bibtex:
 
