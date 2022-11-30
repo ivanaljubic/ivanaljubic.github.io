@@ -1,7 +1,7 @@
 ---
 title: "Bilevel Optimization Under Uncertainty"
 collection: talks
-category: "Talk"
+category: "Plenary/Keynote Talk"
 type: "plenarykeynote"
 permalink: /talks/2022-11-30-bilevel-optimization-under-uncertainty
 venue: "PGMODays 2022"
