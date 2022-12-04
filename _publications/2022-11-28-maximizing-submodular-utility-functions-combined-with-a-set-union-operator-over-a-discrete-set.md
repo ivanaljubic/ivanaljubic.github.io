@@ -5,7 +5,7 @@ type: journal
 author: "S. Coniglio, F. Furini, I. Ljubić"
 permalink: /publication/2022-11-28-maximizing-submodular-utility-functions-combined-with-a-set-union-operator-over-a-discrete-set
 date: 2022-11-28
-venue: " Mathematical Programming, 196, 9-56"
+venue: " Mathematical Programming, 196(1), 9-56 (2022)"
 paperurl: "http://www.optimization-online.org/DB_FILE/2020/04/7715.pdf"
 ---
 
