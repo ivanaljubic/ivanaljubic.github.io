@@ -17,7 +17,7 @@ paperurl: "https://arxiv.org/abs/2111.13400"
 ### Bibtex:
 
 ```
-@article{DBLP:journals/mp/ConiglioFL22,
+@article{DBLP:journals/mp/Leitner-et-al:2022,
   author = {Markus Leitner and Ivana Ljubi\'c and Michele Monaci and Markus Sinnl and Kubra Tanınmıs},
   title     = {An exact method for binary fortification games},
   journal   = {European Journal of Operational Research},
