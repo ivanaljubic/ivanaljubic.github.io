@@ -5,7 +5,7 @@ type: journal
 author: "F. Furini, I. Ljubić, E. Malaguti, P. Paronuzzi"
 permalink: /publication/2021-01-01-casting-light-on-the-hidden-bilevel-combinatorial-structure-of-the-capacitated-vertex-separator-problem
 date: 2021-01-01
-venue: " Oper. Res. 70(4): 2399-2420"
+venue: " Operations Research 70(4): 2399-2420"
 paperurl: "https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2110"
 ---
 
