@@ -1,10 +1,11 @@
 ---
 title: "Freight-on-Transit for urban last-mile deliveries: A Strategic Planning Approach"
 collection: publications
-type: reportorsubmittedpaper
+type: journal
 author: "D. Delle Donne, L. Alfandari, C. Archetti, I. Ljubić"
-permalink: /publication/2021-01-01-freight-on-transit-for-urban-last-mile-deliveries:-a-strategic-planning-approach
-date: 2021-01-01
+permalink: /publication/2023-01-27-freight-on-transit-for-urban-last-mile-deliveries:-a-strategic-planning-approach
+date: 2023-01-27
+Venue: Transportation Research, Part B (forthcoming)
 paperurl: "http://www.optimization-online.org/DB_HTML/2021/11/8693.html"
 ---
 
