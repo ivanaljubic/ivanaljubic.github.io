@@ -5,7 +5,7 @@ type: journal
 author: "M. Leitner, I. Ljubić, M. Monaci, M. Sinnl, K. Taninmis"
 permalink: /publication/2022-10-30-an-exact-method-for-fortification-games
 date: 2022-10-30
-venue:  "Eur. J. Oper. Res., online first"
+venue:  "European Journal of Operational Research (307): 1026--1039"
 doi: https://doi.org/10.1016/j.ejor.2022.10.038
 paperurl: "https://arxiv.org/abs/2111.13400"
 ---
@@ -21,10 +21,10 @@ paperurl: "https://arxiv.org/abs/2111.13400"
   author = {Markus Leitner and Ivana Ljubi\'c and Michele Monaci and Markus Sinnl and Kubra Tanınmıs},
   title     = {An exact method for binary fortification games},
   journal   = {European Journal of Operational Research},
-  volume    = {},
+  volume    = {307},
   number    = {},
-  pages     = {},
-  year      = {2022},
+  pages     = {1026--1039},
+  year      = {2023},
   url = {https://www.sciencedirect.com/science/article/pii/S0377221722008268},    
   doi = {https://doi.org/10.1016/j.ejor.2022.10.038},
   }
