@@ -9,13 +9,13 @@ venue: "Hybrid Metaheuristics 2007, Volume 4771 of Springer Lecture Notes in Com
 paperurl: "http://www.springerlink.com/content/y641322u86w9nu11/"
 ---
 
-[View paper here](http://www.springerlink.com/content/y641322u86w9nu11/)
+[View paper here](https://link.springer.com/chapter/10.1007/978-3-540-75514-2_12)
 
 ### Bibtex:
 
 ```
 @inproceedings{DBLP:conf/hm/Ljubic07,
-  author    = {Ivana Ljubic},
+  author    = {Ivana Ljubi\'c},
   editor    = {Thomas Bartz{-}Beielstein and
                Mar{\'{\i}}a J. Blesa Aguilera and
                Christian Blum and
