@@ -6,7 +6,24 @@ author: "E. Gaar, J. Lee, I. Ljubić, M. Sinnl, K. Tanınmış"
 permalink: /publication/2023-04-14-On-SOCP-based-disjunctive-cuts-for-solving-a-class-of-integer-bilevel-nonlinear-programs
 date: 2023-04-14
 venue: "Mathematical Programming, to appear"
-paperurl: "https://arxiv.org/abs/2207.05014"
+paperurl: "https://link.springer.com/article/10.1007/s10107-023-01965-1"
 ---
 
-[View paper here](https://arxiv.org/abs/2207.05014)
+[View paper here](https://doi.org/10.1007/s10107-023-01965-1)
+
+[Download paper here](https://arxiv.org/abs/2207.05014)
+
+### Bibtex:
+
+```
+@article{DBLP:journals/msom/FardLP22,
+  author    = {E. Gaar and J. Lee and I. Ljubi\'c and M. Sinnl and K. Tanınmış},
+  title     = {On {SOCP}-based disjunctive cuts for solving a class of integer bilevel nonlinear programs},
+  journal   = {Mathematical Programming},
+  volume    = {},
+  number    = {},
+  pages     = {},
+  year      = {2023},
+  doi       = {https://doi.org/10.1007/s10107-023-01965-1}
+}
+```
