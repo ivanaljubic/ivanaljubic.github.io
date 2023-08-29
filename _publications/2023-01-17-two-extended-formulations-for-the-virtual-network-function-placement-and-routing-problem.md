@@ -4,7 +4,8 @@ collection: publications
 type: journal
 author: "A. Mouaci, I. Ljubić, E. Gourdin, N. Perrot"
 permalink: /publication/2023-01-17-two-extended-formulations-for-the-virtual-network-function-placement-and-routing-problem
-venue: "Networks, DOI: https://doi.org/10.1002/net.22144 (forthcoming)"
+venue: "Networks 82(1): 32-51"
+paperurl: "https://doi.org/10.1002/net.22144"
 date: 2023-01-17
 ---
 
