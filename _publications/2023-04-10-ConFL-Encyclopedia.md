@@ -9,6 +9,6 @@ venue: "Encyclopedia of Optimization, 3rd edition, 2024 (edited by P. Pardalos a
 paperurl: "https://doi.org/10.1007/978-3-030-54621-2_870-1"
 ---
 
-[View paper here]({{site.url}}/docs/publications/ConFL_Encyclopedia.pdf)
+[View paper here](https://doi.org/10.1007/978-3-030-54621-2_870-1)
 
 [Download paper here]({{site.url}}/docs/publications/ConFL_Encyclopedia.pdf)
