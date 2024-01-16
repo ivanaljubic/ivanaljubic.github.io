@@ -18,6 +18,8 @@ She received PhD Fellowship of the [Austrian Academy of Sciences](http://www.oea
 
 
 **NEWS:**
+- [Nomination](https://cn6.fr/#medailles2023) by Section 6 of the Comité national de la recherche scientifique for the CNRS Silver Medal 
+
 - [The Glover-Klingman Prize](https://onlinelibrary.wiley.com/page/journal/10970037/homepage/glover-klingman_prize.htm) for the best [Networks](https://onlinelibrary.wiley.com/journal/10970037 "Networks") paper in 2021 for the article Ivana Ljubić: [Solving Steiner trees: Recent advances, challenges, and perspectives,](https://onlinelibrary.wiley.com/doi/10.1002/net.22005) Networks 77 (2): 177-204, 2021
 
 - [Marguerite Frank Award](https://www.sciencedirect.com/science/article/pii/S2192440622000028) for the best EJCO paper in 2021 for the paper [A Survey on Mixed-Integer Programming Techniques in Bilevel Optimization](https://www.sciencedirect.com/science/article/pii/S2192440621001349). Jointly with Thomas Kleinert, Martine Labbé, and Martin Schmidt.
