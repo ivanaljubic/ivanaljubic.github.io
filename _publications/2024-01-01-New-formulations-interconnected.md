@@ -9,9 +9,9 @@ venue: "European Journal of Operational Research 314(1): 51-65 (2024)"
 paperurl: "https://doi.org/10.1016/j.ejor.2023.09.030"
 ---
 
-[View paper here]([https://doi.org/10.1016/j.ejor.2021.06.048](https://doi.org/10.1016/j.ejor.2023.09.030))
+[View paper here](https://doi.org/10.1016/j.ejor.2023.09.030)
 
-[Download paper here](({{site.url}}/docs/publications/InterconnectedFacilities.pdf))
+[Download paper here](/docs/publications/InterconnectedFacilities.pdf)
 
 ### Bibtex:
 
