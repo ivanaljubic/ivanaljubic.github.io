@@ -1,7 +1,7 @@
 ---
 title: "Common-Flow Formulations for the Diameter Constrained Spanning and Steiner Tree Problems"
 collection: publications
-type: reportorsubmittedpaper 
+type: bookchapter 
 author: "L. Gouveia, M. Leitner, I. Ljubić"
 permalink: /publication/2023-04-28-Common-Flow
 date: 2023-04-28
