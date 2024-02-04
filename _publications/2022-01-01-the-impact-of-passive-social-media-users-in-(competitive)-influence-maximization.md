@@ -1,5 +1,5 @@
 ---
-title: "The impact of passive social media users in (competitive) influence maximization"
+title: "The impact of passive social media viewers in influence maximization"
 collection: publications
 type: journal
 author: "M. Kahr, M. Leitner, I. Ljubić"
