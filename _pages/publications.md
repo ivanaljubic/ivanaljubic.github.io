@@ -11,6 +11,14 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 {% include base_path %}
 
+## Edited Books
+
+{% for post in site.publications reversed %}
+{% if post.type == 'editedbook' %}
+{% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
 ## Technical Reports / Submitted Papers
 
 {% for post in site.publications reversed %}
@@ -23,14 +31,6 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 {% for post in site.publications reversed %}
 {% if post.type == 'journal' %}
-{% include archive-single.html %}
-{% endif %}
-{% endfor %}
-
-## Edited Books
-
-{% for post in site.publications reversed %}
-{% if post.type == 'editedbook' %}
 {% include archive-single.html %}
 {% endif %}
 {% endfor %}
