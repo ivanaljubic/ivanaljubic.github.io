@@ -21,10 +21,10 @@ paperurl: "https://doi.org/10.1007/s12532-023-00244-6"
                Ivana Ljubi\'c and
                Martin Schmidt},
   title     = {Exact Methods for Discrete $\Gamma$-Robust Interdiction Problems with an Application to the Bilevel Knapsack Problem},
-  journal   = {Mathematical Programming Computation},
-  volume    = {},
+  journal   = {Mathematical Programming Computation 15: 733–782, (2023)},
+  volume    = {15},
   number    = {},
-  pages     = {},
+  pages     = {733--782},
   year      = {2023},
   doi       = {https://doi.org/10.1007/s12532-023-00244-6}
 }
