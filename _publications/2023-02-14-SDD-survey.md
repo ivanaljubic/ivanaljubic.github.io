@@ -5,9 +5,9 @@ type: reportorsubmittedpaper
 author: "Y. Li, C. Archetti, I. Ljubić"
 permalink: /publication/2023-01-13-SDD-survey 
 date: 2023-02-14
-paperurl: ""
+paperurl: "https://arxiv.org/abs/2405.05620"
 ---
 
-[comment]: # [View paper here]()
+[comment]: # [View paper here](https://arxiv.org/abs/2405.05620)
 
-[Download paper here]({{site.url}}/docs/publications/SDDsurvey.pdf)
+[Download paper here](https://arxiv.org/abs/2405.05620)
