@@ -1,10 +1,11 @@
 ---
 title: "Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates"
 collection: publications
-type: reportorsubmittedpaper
+type: journal
 author: "Y. Li, C. Archetti, I. Ljubić"
-permalink: /publication/2023-01-13-Reinforcement-Learning-Approaches-for-the-Orienteering-Problem-with-Stochastic-and-Dynamic-Release-Dates 
-date: 2023-01-13
+permalink: /publication/2024-05-20-Reinforcement-Learning-Approaches-for-the-Orienteering-Problem-with-Stochastic-and-Dynamic-Release-Dates 
+date: 2024-05-20
+venue: "Transportation Science, to appear"
 paperurl: "https://arxiv.org/abs/2207.00885"
 ---
 
