@@ -1,7 +1,7 @@
 ---
 title: "A bilevel approach for compensation and routing decisions in last-mile delivery"
 collection: publications
-type: publications
+type: journal
 author: "M. Cerulli, C. Archetti, E. Fernandez, I. Ljubić"
 permalink: /publication/2024-05-20-A-bilevel-approach-for-compensation
 date: 2024-05-20
