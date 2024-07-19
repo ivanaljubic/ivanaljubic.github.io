@@ -5,7 +5,7 @@ type: journal
 author: "Y. Beck, I. Ljubić, M. Schmidt"
 permalink: /publication/2023-05-27-exact-methods-for-discrete
 date: 2023-05-27
-venue: " Mathematical Programming Computation, online first"
+venue: " Mathematical Programming Computation, Volume 15, pages 733–782"
 paperurl: "https://doi.org/10.1007/s12532-023-00244-6"
 ---
 
