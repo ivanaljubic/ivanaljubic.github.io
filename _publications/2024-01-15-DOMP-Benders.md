@@ -5,7 +5,7 @@ type: journal
 author: "I. Ljubić, M.A. Pozo, J. Puerto, A. Torrejon"
 permalink: /publication/2024-01-15-DOMP-Benders
 date: 2024-01-15
-venue: "European Journal of Operational Research, online first"
+venue: "European Journal of Operational Research, Volume 317, Issue 3, Pages 858-874"
 paperurl: "https://doi.org/10.1016/j.ejor.2024.04.030"
 ---
 
@@ -21,6 +21,9 @@ author = {Ivana Ljubi\'c and Miguel A. Pozo and Justo Puerto and Alberto Torrej\
 title = {Benders decomposition for the discrete ordered median problem},
 journal = {European Journal of Operational Research},
 year = {2024},
+volume = {317},
+number = {3},
+pages = {858-874},
 doi = {https://doi.org/10.1016/j.ejor.2024.04.030}
 }
 ```
