@@ -8,7 +8,8 @@ date: 2022-01-01
 paperurl: "https://link.springer.com/book/10.1007/978-3-031-18530-4"
 ---
 
-[View book here](http://www.springer.com/la/book/9783319429014)
+[View book here](https://link.springer.com/book/10.1007/978-3-031-18530-4)
+
 
 ### Bibtex:
 
@@ -27,4 +28,6 @@ paperurl: "https://link.springer.com/book/10.1007/978-3-031-18530-4"
   url          = {https://doi.org/10.1007/978-3-031-18530-4},
   doi          = {10.1007/978-3-031-18530-4},
   isbn         = {978-3-031-18529-8}
-}```
+}
+
+```
