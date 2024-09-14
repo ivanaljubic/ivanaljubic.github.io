@@ -5,7 +5,7 @@ type: journal
 author: "Y. Li, C. Archetti, I. Ljubić"
 permalink: /publication/2024-05-20-Reinforcement-Learning-Approaches-for-the-Orienteering-Problem-with-Stochastic-and-Dynamic-Release-Dates 
 date: 2024-05-20
-venue: "Transportation Science, to appear"
+venue: "Transportation Science, https://doi.org/10.1287/trsc.2022.0366"
 paperurl: "https://arxiv.org/abs/2207.00885"
 ---
 
