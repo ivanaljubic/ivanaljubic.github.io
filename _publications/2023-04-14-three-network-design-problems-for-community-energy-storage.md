@@ -5,7 +5,7 @@ type: journal
 author: "B. Ghaddar, I. Ljubić, Y. Qiu"
 permalink: /publication/2023-04-14-three-network-design-problems-for-community-energy-storage
 date: 2024-06-19
-venue: "Networks (2024)"
+venue: "Networks 84(4): 420-445"
 paperurl: "https://doi.org/10.1002/net.22242"
 ---
 
@@ -20,9 +20,9 @@ paperurl: "https://doi.org/10.1002/net.22242"
 author = {Ghaddar, Bissan and Ljubić, Ivana and Qiu, Yuying},
 title = {Three network design problems for community energy storage},
 journal = {Networks},
-volume = {n/a},
-number = {n/a},
-pages = {},
+volume = {84},
+number = {4},
+pages = {420-445},
 year = {2024},
 doi = {https://doi.org/10.1002/net.22242}
 }
