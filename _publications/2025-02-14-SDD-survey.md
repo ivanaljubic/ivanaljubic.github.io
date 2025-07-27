@@ -4,7 +4,7 @@ collection: publications
 type: journal 
 author: "Y. Li, C. Archetti, I. Ljubić"
 venue: "Computers and Operations Research, Volume 182: 107105 "
-permalink: /publication/2025-01-13-SDD-survey 
+permalink: /publication/2025-02-14-SDD-survey 
 date: 2025-02-14
 paperurl: "https://arxiv.org/abs/2405.05620"
 ---
