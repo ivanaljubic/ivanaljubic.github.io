@@ -5,7 +5,7 @@ type: journal
 author: "C. Ramirez-Pico, I. Ljubić, E. Moreno"
 permalink: /publication/2023-05-27-benders-adaptive-cuts-method-for-two-stage-stochastic-programs
 date: 2023-05-27
-venue: "Transportation Science 57(5): 1115-1401, C2 (2023)"
+venue: "Transportation Science 57(5): 1115-1401, C2"
 paperurl: "https://doi.org/10.1287/trsc.2022.0073"
 ---
 
