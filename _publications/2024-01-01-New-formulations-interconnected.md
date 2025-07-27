@@ -5,7 +5,7 @@ type: journal
 author: "Y. Kuzbakov, I. Ljubić"
 permalink: /publication/2024-01-01-New-formulations-interconnected
 date: 2024-01-01
-venue: "European Journal of Operational Research 314(1): 51-65 (2024)"
+venue: "European Journal of Operational Research 314(1): 51-65"
 paperurl: "https://doi.org/10.1016/j.ejor.2023.09.030"
 ---
 
