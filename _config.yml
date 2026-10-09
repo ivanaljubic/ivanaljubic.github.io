@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Prof. Ivana LJUBIC"
 title_separator: "-"
 name: &name "Ivana LJUBIC"
-description: &description "Professor at ESSEC Business School"
+description: &description "Professor at WU Vienna, Austria"
 url: "https://ivanaljubic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "ivanaljubic/ivanaljubic.github.io"
@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Ivana LJUBIC"
   avatar: "profile-pic.jpg"
-  bio: "Professor of Operations Research at the ESSEC Business School"
-  location: "Paris, France"
+  bio: "Professor of Foundations of Operations Research at WU Vienna"
+  location: "Vienna, Austria"
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=o1Ym0_AAAAAJ&hl=en"
-  email: "ljubic@essec.edu"
+  email: "ivana.ljubic@wu.ac.at"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
