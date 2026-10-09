@@ -1,13 +1,3 @@
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
 Ivana Ljubić is Professor of Operations Research at the [ESSEC Business School](http://www.essec.edu/) of Paris. She received her habilitation in Operations Research at the University of Vienna (2013), and she holds PhD degree in computer science from the Vienna University of Technology (2004).
 She worked for two years in a company dealing with portfolio optimization before continuing her university career at the University of Vienna where she was appointed until 2015. She was also Visiting Researcher/Professor at the following institutions: La Sapienza in Rome, University of Maryland, TU Berlin, TU Dortmund, University of Paris Dauphine, etc. As of September 2015, she is appointed at the [ESSEC Business School](http://www.essec.edu/) of Paris.
 
